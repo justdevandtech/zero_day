@@ -1,1 +1,2 @@
-My zero_day at ALX software engineering programme
+
+Day zero at ALX school of software engineering
